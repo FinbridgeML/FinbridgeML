@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FinbridgeML (Ivan Balashov)
+- 👋 Hi, I’m @i-balashov (Ivan Balashov)
 - 👀 I’m interested in Machine Learning for Finbridge
 - 🌱 I’m currently learning model agnostic methods ...
 - 💞️ I’m looking to collaborate on the FE documentation Tool
